@@ -1,0 +1,14 @@
+{
+  "name": "OpenCV",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MDeanLindsay/OpenCV.git",
+  "author": "MDeanLindsay <michaeldeanlindsay@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
